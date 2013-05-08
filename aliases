@@ -1,0 +1,6 @@
+
+alias l='ls -al'
+alias v='vim'
+alias t='tig'
+alias o='less'
+
